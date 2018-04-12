@@ -1,0 +1,105 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+
+
+}
+.box-set {
+    position: relative;
+    height: 400px;
+    background: #ebebeb;
+}
+  
+  .box {
+    position: fixed;
+    width: 150px;
+    height: 150px;
+    background: #2db34a;
+    border: 2px solid black;
+}
+  
+  .box-1 {
+    top: 6%;
+    left: 2%;
+}
+  
+  .box-2 {
+    top: 0;
+    right: -40px;
+}
+  
+  .box-3 {
+    right: 20px;
+    bottom: -10px;
+}
+  
+  
+  }
+  
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ccc;
+  }
+  
+  section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #ccc;
+  }
+  
+  aside {
+    float: left;
+    width: 33.3%;
+    color: #fff;
+    background: #666;
+  }
+  
+  article {
+    float: left;
+    width: 33.3%;
+    color: #fff;
+    background: #888;
+  }
+  
+  #right {
+    float: left;
+    width: 33.3%;
+    color: #fff;
+    background: #666;
+  }
+  
+  #full {
+    width: 100%;
+    overflow: auto;
+    clear: both;
+    background: #eee;
+  }
+  
+  #division {
+    padding: 20px;
+    margin-top: 20px;
+    background: #6ea3da;
+  }
+  
+  aside {
+    float: left;
+    width: 33%;
+    height: 200px;
+    padding: 20px;
+    margin-left: 30px;
+    background: #fff;
+    border: 1px solid #eee;
+  }
+  
+  footer {
+    padding: 20px;
+    clear: both;
+    background: #ccc;
+  }
